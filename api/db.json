@@ -1,3 +1,15 @@
 {
-    "streams": []
+  "streams": [
+    {
+      "title": "A new new stream",
+      "description": "just changed it to change",
+      "id": 6
+    },
+    {
+      "title": "After CreateStream refactor",
+      "description": "Lets see if this is working or not",
+      "userId": "114346706968921579376",
+      "id": 7
+    }
+  ]
 }
