@@ -10,6 +10,24 @@
       "description": "A new stream",
       "userId": "114346706968921579376",
       "id": 7
+    },
+    {
+      "title": "I am a stream",
+      "description": "Why i am getting rendered twice",
+      "userId": "114346706968921579376",
+      "id": 8
+    },
+    {
+      "title": "abc",
+      "description": "xyz",
+      "userId": "114346706968921579376",
+      "id": 9
+    },
+    {
+      "title": "xxxx",
+      "description": "yyyy",
+      "userId": "114346706968921579376",
+      "id": 10
     }
   ]
 }
